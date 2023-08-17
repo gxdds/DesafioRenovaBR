@@ -32,3 +32,5 @@ neste passo, o lambda foi usado para criar como se fosse uma "mini-funçao", o "
 
 Passo 11: Gráfico de pizza mostrando os 4 mais votados e quantos % representam os votos nulos.
 neste passo, utilizamos a biblioteca matplotlib para: 1°, definir o tamanho da imagem, 2° setar a posiçao e quais serão os elementos do gráfico de pizza, 3° título da figura, 4° manter a proporção e 5° por último mostrar o gráfico no comando ".show()"
+
+O arquivo "auxiliar.py" foi usado para fazer os testes dos comandos utilizados para que não fosse necessário ficar comentando as linhas de código, evitando a perda de tempo e mantendo a organização do código
